@@ -1,4 +1,4 @@
-# IAPPrice-Tier
+# IAP Price-Tier（CNY）（人民币IAP价格等级）
 |tier	|price 	|proceeds|
 |:-|:-|:-|
 |tier 1	|￥6.00	|￥4.12|
